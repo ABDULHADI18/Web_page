@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 80px;
+    color: #ff1905;
+}
+body{
+    background-color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: #f4e9e9;
+    text-align: center;
+    
+}
